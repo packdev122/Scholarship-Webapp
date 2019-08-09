@@ -1,0 +1,19 @@
+https://www.youtube.com/watch?v=5eR9j82ibR4
+https://github.com/sohaibilyas/facebook-php-graph-sdk-examples/tree/master
+how to post into facebook group with php using graph api
+https://github.com/sohaibilyas/facebook-php-graph-sdk-examples/blob/master/get-list-of-managed-groups.php
+
+
+
+
+https://www.phpgang.com/how-to-post-into-a-facebook-page-with-php-using-graph-api_481.html
+https://www.phpgang.com/how-to-post-into-facebook-group-with-php-using-graph-api_728.html?doing_wp_cron=1527359463.1948308944702148437500
+
+
+auto_post on facebook with php
+http://www.pontikis.net/blog/auto_post_on_facebook_with_php
+
+video upload example
+https://developers.facebook.com/docs/php/howto/example_upload_video
+https://stackoverflow.com/questions/17228638/how-to-post-video-to-facebook-through-graph-api-using-php
+https://stackoverflow.com/questions/24367729/php-posting-video-on-facebook-through-graph-api-using-a-valid-access-token
